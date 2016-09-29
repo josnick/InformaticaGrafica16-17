@@ -1,0 +1,5 @@
+﻿  Primitives.cpp
+c:\users\josan\source\repos\informaticagrafica16-17\informaticagrafica16-17\informaticagrafica16-17\vector.h(34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\josan\source\repos\informaticagrafica16-17\informaticagrafica16-17\informaticagrafica16-17\vector.h(40): warning C4172: returning address of local variable or temporary
+  InformaticaGrafica16-17.vcxproj -> C:\Users\josan\Source\Repos\InformaticaGrafica16-17\InformaticaGrafica16-17\Debug\InformaticaGrafica16-17.exe
+  InformaticaGrafica16-17.vcxproj -> C:\Users\josan\Source\Repos\InformaticaGrafica16-17\InformaticaGrafica16-17\Debug\InformaticaGrafica16-17.pdb (Partial PDB)
