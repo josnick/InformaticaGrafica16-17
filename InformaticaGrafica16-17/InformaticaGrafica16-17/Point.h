@@ -9,7 +9,7 @@
 struct point
 {
 	float x, y, z;
-	//inicializaaa el struct a 1,1,1
+	//inicializa el struct a 1,1,1
 	point() {
 		x = 1.0;
 		y = 1.0;
